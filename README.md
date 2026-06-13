@@ -45,6 +45,6 @@ It automatically calculates the total calories burned and compares them with a d
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/fitness-tracker-python.git
+git clone https://github.com/rewanahmedelbayoumi/fitness-tracker-python.git
 cd fitness-tracker-python
 python main.py
