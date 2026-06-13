@@ -1,48 +1,48 @@
-# 🏋️‍♂️ Fitness Tracker (Python)
+# Fitness Tracker (Python)
 
-A simple yet powerful Python application designed to track physical exercises, calculate calories burned, and help users stay consistent with their daily fitness goals.
-
----
-
-## 🚀 Overview
-
-This project allows users to input multiple exercises along with duration and calorie burn rate.  
-It then automatically calculates total calories burned and compares them with a daily target, providing instant motivational feedback.
+A simple Python-based application designed to track physical exercises, calculate calories burned, and help users monitor and achieve their daily fitness goals.
 
 ---
 
-## 🎯 Key Features
+## Overview
 
-- 🏃 Add multiple exercises dynamically  
-- 🔥 Calculate calories burned per activity  
-- 📊 Compute total daily calorie burn  
-- 🎯 Compare results with a personal fitness goal  
-- 💬 Generate motivational feedback based on performance  
+This project allows users to input multiple exercises along with duration and calories burned per minute.  
+It automatically calculates the total calories burned and compares them with a daily target, providing instant feedback based on performance.
 
 ---
 
-## ⚙️ How It Works
+## Features
 
-1. User enters exercise details (type, duration, calories per minute)  
-2. Program processes each activity  
-3. Calories are calculated automatically  
-4. Total is compared to the daily goal  
-5. Feedback is displayed instantly  
+- Add multiple exercises dynamically  
+- Calculate calories burned per activity  
+- Compute total daily calorie burn  
+- Compare results with a predefined fitness goal  
+- Provide feedback based on user performance  
 
 ---
 
-## 💻 Tech Stack
+## How It Works
+
+1. The user enters exercise details such as type, duration, and calories burned per minute  
+2. The program processes each input  
+3. Calories are calculated for every exercise  
+4. The total is summed and compared to the daily goal  
+5. Feedback is displayed based on the result  
+
+---
+
+## Tech Stack
 
 - Python 3.x  
 - Command Line Interface (CLI)  
 - Core programming concepts:
   - Loops  
   - Functions  
-  - Conditionals  
+  - Conditional statements  
 
 ---
 
-## ▶️ Run the Project
+## How to Run
 
 ```bash
 git clone https://github.com/your-username/fitness-tracker-python.git
