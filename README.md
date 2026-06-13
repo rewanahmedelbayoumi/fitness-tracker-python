@@ -4,6 +4,15 @@ A simple Python-based application designed to track physical exercises, calculat
 
 ---
 
+## Project Information
+
+- Project Type: University Assignment  
+- Submission Date: 27 December 2024  
+- Domain: Health & Fitness Tracking System  
+- Language: Python  
+
+---
+
 ## Overview
 
 This project allows users to input multiple exercises along with duration and calories burned per minute.  
